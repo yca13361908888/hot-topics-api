@@ -1,0 +1,9 @@
+{
+  "date": "2025-04-22",
+  "hot_topics": [
+    { "name": "AI", "rank": 1, "score": 95 },
+    { "name": "房地产", "rank": 2, "score": 91 },
+    { "name": "减肥药", "rank": 3, "score": 88 },
+    { "name": "机器人", "rank": 4, "score": 85 }
+  ]
+}
